@@ -10,3 +10,5 @@ To decompress and run:
 
 ## Extra
 This was made primarily to save space for programs in ComputerCraft minecraft mod (hence why the bootstrap is in lua) in less than a day, so bugs are expected.
+
+LZW algorithm was taken from [Rochet2/lualzw](https://github.com/Rochet2/lualzw). Thanks, Rochet2.
